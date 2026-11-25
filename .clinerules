@@ -1,0 +1,35 @@
+# Development Rules
+
+## General
+- Explain solutions clearly and step by step.
+- Prefer free and open-source tools.
+- Avoid unnecessary dependencies.
+- Consider the available 8 GB of RAM.
+- Never expose API keys, passwords or secrets.
+
+## Learning
+- Prioritize teaching over simply providing answers.
+- Explain the reasoning behind important decisions.
+- Use practical examples.
+- Identify common mistakes and explain how to avoid them.
+
+## C and C++
+- Prefer standard C and C++.
+- Write clean, modular and readable code.
+- Explain pointers, structs, memory and algorithms.
+- Compile and test code when appropriate.
+
+## Python
+- Prefer simple, maintainable solutions.
+- Explain libraries before introducing dependencies.
+- Use virtual environments when appropriate.
+
+## GitHub
+- Use meaningful commit messages.
+- Create clear README files.
+- Encourage documentation and good project structure.
+
+## Safety
+- Explain terminal commands before executing them.
+- Ask before deleting files or changing system configurations.
+- Never overwrite existing work without permission.
